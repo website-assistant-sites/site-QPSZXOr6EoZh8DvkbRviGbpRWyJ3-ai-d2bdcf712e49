@@ -1,0 +1,11 @@
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src https://website-assistant-jn2qrogbqa-ew.a.run.app/api/forms/QPSZXOr6EoZh8DvkbRviGbpRWyJ3-create-c4e4e0ad60da8956de83d6530b15bd1b/availability https://website-assistant-jn2qrogbqa-ew.a.run.app/api/forms/QPSZXOr6EoZh8DvkbRviGbpRWyJ3-create-c4e4e0ad60da8956de83d6530b15bd1b/submissions; media-src 'self'; object-src 'none'; frame-src 'none'; worker-src 'none'; base-uri 'none'; form-action 'none'
+  Referrer-Policy: no-referrer
+
+/legal
+  ! X-Robots-Tag
+  Cache-Control: no-cache
+/legal/*
+  ! X-Robots-Tag
+  Cache-Control: no-cache
